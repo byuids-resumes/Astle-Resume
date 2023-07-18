@@ -58,7 +58,7 @@ __Research and Business Development Center__, Language Data Annotator
 
 - Managed large datasets and private data in a discrete and organized manner
   
-- Virtually worked with a team to create best practices and manage a workflow
+- Virtually worked with a remote team to create best practices and manage a workflow
 
 - Attended virtual meetings to share progress, issues, and learn about updates to the project
   
